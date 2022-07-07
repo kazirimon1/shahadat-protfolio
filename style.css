@@ -106,3 +106,8 @@ body{
 .football{
     background-color: aquamarine;
 }
+.footer{
+    background-color: black;
+    text-align: center;
+    color: chartreuse;
+}
